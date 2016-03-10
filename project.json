@@ -1,0 +1,10 @@
+{
+    "name": "try_3",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "try_3.xml",
+    "author": "cupcakegirl77",
+    "minimum_firmware_version": 42
+}
